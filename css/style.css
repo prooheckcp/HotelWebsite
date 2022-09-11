@@ -83,6 +83,10 @@ p{
     background: #f7c08a;
 }
 
+.clr{
+    clear:both;
+}
+
 /* Navbar */
 #navbar{
     background: #333;
@@ -180,4 +184,13 @@ p{
 
 .box i{
     margin-bottom: 10px;
+}
+
+/* Main Footer */
+#main-footer{
+    background: #444;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    min-height: 100px;
 }
