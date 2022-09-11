@@ -79,8 +79,8 @@ p{
 }
 
 .bg-primary{
-    background-color: #333;
-    color: #f7c08a;
+    color: #333;
+    background: #f7c08a;
 }
 
 /* Navbar */
@@ -168,4 +168,16 @@ p{
 
 #home-info .info-content p{
     padding-bottom: 40px;
+}
+
+/* Features */
+.box{
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+
+.box i{
+    margin-bottom: 10px;
 }
