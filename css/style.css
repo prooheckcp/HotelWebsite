@@ -302,6 +302,14 @@ p{
     width: 100%;
     padding: 10px;
     border: 1px #ddd solid;
+    background-color: #333;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#contact-form input{
+    height: 50px;
 }
 
 #contact-form textarea{
