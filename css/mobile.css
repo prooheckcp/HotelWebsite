@@ -12,6 +12,22 @@
     border-bottom: #444 dotted 2px;
 }
 
+#navbar {
+    position: unset;
+}
+
+/* Showcase */
+#showcase {
+    height: 100%;
+}
+
+.showcase-content{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 /* Home info */
 #home-info{
     height: 550px;

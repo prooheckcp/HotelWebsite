@@ -107,6 +107,10 @@ p{
     background: #333;
     color: white;
     overflow: auto;
+    width: 100vw;
+    top: 0;
+    z-index: 20;
+    position:sticky;
 }
 
 #navbar a{
