@@ -12,6 +12,10 @@
     border-bottom: #444 dotted 2px;
 }
 
+#navbar {
+    position: unset;
+}
+
 /* Showcase */
 #showcase {
     height: 100%;
